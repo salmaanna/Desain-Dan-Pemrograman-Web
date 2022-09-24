@@ -1,0 +1,140 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin : 0px;
+    padding : 0px;
+}
+
+nav {
+    align-items: center;
+    justify-content: space-between;
+    padding-top : 15px;
+    padding-left : 8%;
+    padding-right : 10%;
+    background: #f08e8e;
+}
+
+.up {
+    color : white;
+    background : #f08e8e;
+}
+
+.logo {
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.firstp {
+    width : 7.5cm;
+    height : 10cm;
+    border: 4px solid white;
+    border-radius: 2.5cm;
+    margin-left: 6cm;
+    margin-right : 5cm;
+}
+
+.content1 {
+    justify-content: space-between;
+    line-height: 55px;
+    padding-top : 10px;
+    padding-left : 13%;
+    letter-spacing: 1px;
+    color : white;
+    font-size: 30px;
+}
+
+nav ul li {
+    list-style-type : none;
+    display : inline-block;
+    padding : 10px 15px;
+}
+
+nav ul li a {
+    font-weight: 500;
+    text-decoration: wavy;
+    color : #474545;
+    border : white;
+}
+
+a:hover {
+    color : white;
+    transition: .4s;
+}
+
+.name {
+    color : #474545;
+    font-weight: bold;
+}
+
+.status {
+    text-decoration: overline;
+    font-weight: lighter;
+    font-size: 20px;
+    letter-spacing : 1.2px;
+}
+
+.content2 {
+    padding-left : 13%;
+    padding-right : 13%;
+    background-color : #f08e8e;
+    padding-bottom : 5%;
+    padding-bottom: 9%;
+}
+
+.box1 {
+    margin-top : 2%;
+    color : white;
+    letter-spacing: 0.4px;
+    line-height: 160%;
+    background-color: #575656;
+    width : 23.5cm;
+    height : 9.8cm;
+    border-radius: 1cm;
+    margin-left: 1%;
+    margin-right : 13%;
+    padding : 25px;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.ahli {
+    padding-left : 3%;
+    line-height: 140%;
+}
+
+.content3 {
+    background-color: #474545;
+    color: white;
+}
+
+.box31 {
+    background: white;
+    width: 2cm;
+    height: 2cm;
+    color: #575656;
+    border: 1px solid white;
+    border-radius: 2cm;
+}
+
+.box32 {
+    margin-left: 500px;
+    background: white;
+    width: 2cm;
+    height: 2cm;
+    color: #575656;
+    border: 1px solid white;
+    border-radius: 2cm;
+}
+
+.icon {
+    margin-left : 195px;
+    height: 30px;
+    width : 30px;
+}
+
+.content4 {
+    text-align : center;
+    color : white;
+    background: #575656;
+    padding-top: 20px;
+    border: 10px solid #f08e8e;
+}
